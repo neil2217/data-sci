@@ -1,0 +1,2 @@
+This file was created as part of initial commit
+This is a sample text file
